@@ -10,9 +10,9 @@ go run ./v9/*.go
 
 Routes:
 
-GET  localhost:8080/
-GET  localhost:8080/todos
-POST localhost:8080/todos
+GET  localhost:8080/  
+GET  localhost:8080/todos  
+POST localhost:8080/todos  
 GET  localhost:8080/todos/{todoId}
 
 To add a todo:
